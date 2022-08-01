@@ -1,7 +1,0 @@
-echo "# OOP_Zac_Activity" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/UBLC-CPE/OOP_Zac_Activity.git
-git push -u origin main
